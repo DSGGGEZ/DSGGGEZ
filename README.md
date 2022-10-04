@@ -1,8 +1,9 @@
 ### Hi there 👋 Nice to see u.  
-- 😄 My name is: Supakorn Suthana 
-- ⚡ Student id: 63366226 
-- 🔭 I'm currently studying on Faculty of Engineering.  
-## Developer Tech  ### Frameworks  
+- 😄 My name is: Vachirapon Tosawat
+- ⚡ Student id: 63313909
+- 🔭 I'm currently studying on Faculty of Science Information Technology Naresuan University.  
+## Developer Tech  
+### Frameworks  
 <p align="left"> 
   <a href="#">     
     <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">   
