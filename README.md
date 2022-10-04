@@ -24,7 +24,7 @@
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">   
   </a>   
   <a href="#">     
-    <img src="svg/dev/languages/javascript.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">   
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">   
   </a>   
   <a href="#">     
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">   
