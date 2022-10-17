@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DSGG/DSGG/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DSGGEZ/DSGGEZ/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
