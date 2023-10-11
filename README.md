@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://panel.000webhost.com/meettung/index.php">「 Talkit! 」</a>
+    <a href="https://panel.000webhost.com/meettung/index.php" target="_blank">「 Talkit! 」</a>
     <br>
     「 I am a game developer , Full stack web developer and Programmer from <b>Thailand</b> 」
     <br>
