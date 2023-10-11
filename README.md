@@ -16,7 +16,6 @@
 </p>
 
 ###
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=DSGG" height="150" alt="stats graph"  />
@@ -42,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/DSGG/count.svg?"  />
 </div>
